@@ -1,6 +1,6 @@
 <img align="right" src="https://www.techyon.es/media/news/web-developer-principales-responsabilidades-y-competencias_1650467356_100.jpg" alt="Illustration" title="Illustration Storyset" width=450/>
     
-<h1 align="left">Hi 👋🏽, I'm Gabriel Conte-Grand</h1>
+<h2 align="left">Hi 👋🏽, I'm Gabriel Conte-Grand</h2>
 
 ![Profile views](https://gpvc.arturio.dev/gabrlcj)
 
