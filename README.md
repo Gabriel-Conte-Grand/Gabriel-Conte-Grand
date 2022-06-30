@@ -2,7 +2,7 @@
     
 <h2 align="left">Hi 👋🏽, I'm Gabriel Conte-Grand</h2>
 
-![Profile views](https://gpvc.arturio.dev/gabrlcj)
+
 
 <h3 align="left">I’m a software developer passionate and curious about technology. Experience on Frontend and Backend 🚀</h3>
 
