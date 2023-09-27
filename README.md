@@ -8,7 +8,6 @@
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 📚 Always on learning mode. My next skills I'm working on are NextJS, AWS and UX/UI.</b></p>
         <p>• ℹ️ Hobbies: <b>Reading 📚 | Music 🎧 | Exercise 🏃 | Football ⚽ </b></p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
         <p>• 📫 How to reach me: <b>gabrielcontegrand10@gmail.com</b></p>
